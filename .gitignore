@@ -1,3 +1,5 @@
 Data/
 venv/
 notebooks/.ipynb_checkpoints/
+Uploads/
+models/
