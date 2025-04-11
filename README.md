@@ -100,8 +100,8 @@ Below is a screenshot of the deployed frontend:
 ![Web App Screenshot](assets/Front-End.png)
 
 ### ✨ Example Prediction
-- **Prediction:** `Pepper_bell___Bacterial_spot`  
-- **Confidence:** `99.91%`
+- **Prediction:** `Tomato___Target_spot`  
+- **Confidence:** `99.92%`
 
 ---
 
