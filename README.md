@@ -97,7 +97,7 @@ Tomato___Spider_mites_Two_spotted_spider_mite
 
 Below is a screenshot of the deployed frontend:
 
-![Web App Screenshot](assets/Front-End.jpg)
+![Web App Screenshot](assets/Front-End.png)
 
 ### ✨ Example Prediction
 - **Prediction:** `Pepper_bell___Bacterial_spot`  
