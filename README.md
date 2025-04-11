@@ -97,7 +97,7 @@ Tomato___Spider_mites_Two_spotted_spider_mite
 
 Below is a screenshot of the deployed frontend:
 
-![Web App Screenshot](Front-End.jpg)
+![Web App Screenshot](assets/Front-End.jpg)
 
 ### ✨ Example Prediction
 - **Prediction:** `Pepper_bell___Bacterial_spot`  
@@ -287,6 +287,5 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 - **Google Colab** – GPU acceleration
 - **Albumentations** – Image augmentation
 - **Grad-CAM** – Explainable AI
-- **xAI's Grok** – Inspiration engine
 
 ---
